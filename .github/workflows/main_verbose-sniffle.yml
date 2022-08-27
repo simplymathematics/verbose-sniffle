@@ -10,9 +10,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  phpunit:
     runs-on: ubuntu-latest
-
+    defaults:
+      run:
+        working-directory: ./sniffler
     steps:
       - uses: actions/checkout@v2
 
