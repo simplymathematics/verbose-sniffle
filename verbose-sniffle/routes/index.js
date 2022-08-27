@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Verbose Sniffler the Fake Text Generator' });
+  res.render('index', { title: 'Verbose Sniffle' });
 });
 
 module.exports = router;
