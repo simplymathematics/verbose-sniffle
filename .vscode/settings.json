@@ -1,4 +1,3 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/a0e218d1-5acb-4e4e-9283-9467996a4f28/microsoft.web/sites/subscriptions/a0e218d1-5acb-4e4e-9283-9467996a4f28/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/verbose-sniffle",
-    "appService.deploySubpath": "./verbose-sniffle/",
 }
