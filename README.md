@@ -1,2 +1,1 @@
-# verbose-sniffle
-fake news generator
+dickin' around with node app deployments
